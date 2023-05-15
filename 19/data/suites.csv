@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 15 13:48:42 GMT 2023","Mon May 15 13:48:46 GMT 2023","4579","","Validate Search","","","","Validate search functionality - provide a search term",""
+"passed","Mon May 15 13:48:19 GMT 2023","Mon May 15 13:48:26 GMT 2023","6629","","Validate creating an account","","","","Validate the unsuccesful account creation - Leave required fields empty",""
+"failed","Mon May 15 13:47:33 GMT 2023","Mon May 15 13:48:19 GMT 2023","45756","","Validate creating an account","","","","Verify that the account is created succesfully - Fill in all the required fields",""
